@@ -13,6 +13,7 @@
 - Notárska profesia - **Slobodné povolanie** + **štátom poverené osoby** (notár, zástupca notára, notársky koncipient)  
 - **Orgán verejnej moci, štátny orgán** - Notár má postavenie **verejného činiteľa** (§ 4 ods. 3 Notársky poriadok)  
 - **Notársky úrad** predstavuje **súbor právomocí** udelených na **dobu neurčitú štátom** notárovi ako **fyzickej osobe**  
+- Počet notárov: cca 316
 
 ## 🧰 Notárske Centrálne Registre NCR a Úradné Tabule
 1. Notársky centrálny register záložných práv
