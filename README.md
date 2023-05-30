@@ -33,8 +33,8 @@
 (1) Ak nededí manžel ani žiadny z rodičov, dedia v tretej skupine rovnakým dielom poručiteľovi súrodenci a tí, ktorí žili s poručiteľom najmenej po dobu jedného roku pred jeho smrťou v spoločnej domácnosti a ktorí sa z tohto dôvodu starali o spoločnú domácnosť alebo boli odkázaní výživou na poručiteľa.   
 (2) Ak niektorý zo súrodencov poručiteľa nededí, nadobúdajú jeho dedičský podiel rovnakým dielom jeho deti.   
 
-4. Dedičská Skupina - §475a OZ - **poručitelovi prarodičia** 
-(1) Ak žiadny dedič nededí v tretej skupine, v štvrtej skupine dedia rovnakým dielom prarodičia poručiteľa, a ak nededí žiaden z nich, dedia rovnakým dielom ich deti.  
+4. Dedičská Skupina - §475a OZ - **poručitelovi prarodičia**   
+() Ak žiadny dedič nededí v tretej skupine, v štvrtej skupine dedia rovnakým dielom prarodičia poručiteľa, a ak nededí žiaden z nich, dedia rovnakým dielom ich deti.  
 
 ## 🧰 Notárske Centrálne Registre NCR a Úradné Tabule
 1. Notársky centrálny register záložných práv
