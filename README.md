@@ -15,6 +15,27 @@
 - **Notársky úrad** predstavuje **súbor právomocí** udelených na **dobu neurčitú štátom** notárovi ako **fyzickej osobe**  
 - Počet notárov: cca 316
 
+## 🪦 Dedičské Skupiny 
+- Sú pri dedení zo zákona
+- Prechod poručiteľovho majetku priamo zo zákona na dedičo
+- 4 zákonom stanovené dedičské skupiny,
+- Poradie povolaných dedičov v dedičských skupinách je záväzné a neprekročiteľné 
+
+1. Dedičská Skupina - §473 OZ - **poručiteľove deti** a **manžel**  
+(1) V prvej skupine dedia poručiteľove deti a manžel, každý z nich rovnakým dielom.   
+(2) Ak nededí niektoré dieťa, nadobúdajú jeho dedičský podiel rovnakým dielom jeho deti. Ak nededia ani tieto deti alebo niektoré z nich, dedia rovnakým dielom ich potomci.   
+
+2. Dedičská Skupina - §474 OZ - **manžel**, **poručitelovi rodičia**, **tí, ktorí žili v spoločnej domácnosti aspoň 1 rok pred smrťou...** 
+(1) Ak nededia poručiteľovi potomci, dedí v druhej skupine manžel, poručiteľovi rodičia a ďalej tí, ktorí žili s poručiteľom najmenej po dobu jedného roka pred jeho smrťou v spoločnej domácnosti a ktorí sa z tohto dôvodu starali o spoločnú domácnosť alebo boli odkázaní výživou na poručiteľa. 
+(2) Dedičia druhej skupiny dedia rovnakým dielom, **manžel** však vždy **najmenej polovicu 1/2 dedičstva**.
+
+3. Dedičská Skupina - §475 OZ - **poručitelovi súrodenci** a **tí, ktorí žili v spoločnej domácnosti aspoň 1 rok pred smrťou...**  
+(1) Ak nededí manžel ani žiadny z rodičov, dedia v tretej skupine rovnakým dielom poručiteľovi súrodenci a tí, ktorí žili s poručiteľom najmenej po dobu jedného roku pred jeho smrťou v spoločnej domácnosti a ktorí sa z tohto dôvodu starali o spoločnú domácnosť alebo boli odkázaní výživou na poručiteľa. 
+(2) Ak niektorý zo súrodencov poručiteľa nededí, nadobúdajú jeho dedičský podiel rovnakým dielom jeho deti. 
+
+4. Dedičská Skupina - §475a OZ - **poručitelovi prarodičia** 
+(1) Ak žiadny dedič nededí v tretej skupine, v štvrtej skupine dedia rovnakým dielom prarodičia poručiteľa, a ak nededí žiaden z nich, dedia rovnakým dielom ich deti.
+
 ## 🧰 Notárske Centrálne Registre NCR a Úradné Tabule
 1. Notársky centrálny register záložných práv
 1. Notársky centrálny register určených právnických osôb (zoznam prijímateľov podielu zaplatenej dane)
