@@ -21,11 +21,19 @@
 1. [Register osvedčených podpisov (overenie pravosti osvedčovacej doložky)](https://www.notar.sk/osvedcenie-podpisu/)
 1. [Register notárskych zápisníc (overenie pravosti notárskej zápisnice)](https://www.notar.sk/overenie-podpisu/)
 1. [Úradné Tabule](https://drive.google.com/drive/folders/0Bx-jDPt_90ZpMzlvQ1pramhYTGM?resourcekey=0-Gy4__ffeoHLfhuhTtIfWow) a https://www.notar.sk/uradne-tabule/
+![register-notarskych-zapisnic](https://github.com/miroslav-reiter/Notarstvo/assets/24510943/8dccf2b8-4d35-485b-aae6-14c930a1a2ed)
 
-### Register Notárskych Zápisníc (Nz)
+## Register Notárskych Zápisníc (Nz)
 - Čísla registrácie (N a 2 čísla napr 93) sa uvádza sa bez písmen "N" a bez lomítka s rokom
 - Čísla notárskej zápisnice (NZ a 5 čísel napr 22928) sa uvádza sa bez písmen "NZ" a bez lomítka s rokom
 - Dátum spísania notárskej zápisnice NZ (dd.mm.rrrr)
 - **Správcom obsahu** a **technickým prevádzkovateľom webu** je **Notárska komora SR** 
 - **Prevádzkovateľom webu** je spoločnosť [**xIT spol. s r.o.**](https://www.finstat.sk/46668489) a [Web](https://xit.camp/)
-![register-notarskych-zapisnic](https://github.com/miroslav-reiter/Notarstvo/assets/24510943/8dccf2b8-4d35-485b-aae6-14c930a1a2ed)
+
+## 📝 Vzor Potvrdenia Verejná Listina
+![vzor-potvrdenie-verejna-listina](https://github.com/miroslav-reiter/Notarstvo/assets/24510943/452a41f3-1d68-4a13-98d8-0e49239bdead)
+
+## 📃 Vzor Notárskej Zápisnice Závetu
+![zapisnica-zavet](https://github.com/miroslav-reiter/Notarstvo/assets/24510943/e48f5880-bbce-4f93-aad2-92517bfb6e34)
+
+
