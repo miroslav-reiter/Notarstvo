@@ -15,7 +15,7 @@
 - **Notársky úrad** predstavuje **súbor právomocí** udelených na **dobu neurčitú štátom** notárovi ako **fyzickej osobe**  
 - Počet notárov: cca 316
 
-## 🪦 Dedičské Skupiny 
+## 🖊️ Dedičské Skupiny 
 - Sú pri dedení zo zákona
 - Prechod poručiteľovho majetku priamo zo zákona na dedičo
 - 4 zákonom stanovené dedičské skupiny,
